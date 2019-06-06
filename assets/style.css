@@ -1,0 +1,65 @@
+/* for card layout */
+.gallery-row {
+    margin-bottom: 2rem;
+    
+}
+
+.card-img-overlay a{ /* changes the style of a only when it's inside of card-body */
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.card-img-overlay a:hover{ /* changes the style of a ON HOVER and only when it's inside of card-body */
+    color: darkturquoise;
+    cursor: pointer;
+    opacity: .0;
+    background-color: rgba(23, 208, 233, 0.596);
+    transition: .5s ease;
+    overflow:hidden;
+    
+}
+
+
+/*background font & image*/
+body{
+   font-family: 'Happy Monkey','Nunito', 'Lato','sans-serif';
+   background:url(/resources/_gen/images/bk_image3.png);
+   background-size:cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   /* box-shadow: inset 0 0 0 1000px rgba(255, 254, 254, .55);*/
+}
+
+#nav1{  
+    background-color:rgb(253, 255, 255); /*whichever you want*/
+    opacity: .90; 
+    filter:(opacity=50);       
+}
+#navbarNav a:hover{
+    color: darkturquoise;
+    cursor: pointer;
+    opacity: .70;
+    background-color: rgba(238, 234, 29, 0.712);
+    transition: .5s ease;
+    overflow:hidden;
+}
+
+#content_material{
+    background-color:rgb(255, 255, 255); /*whichever you want*/
+    opacity: .90; 
+    filter:(opacity=50); 
+}
+
+#content_aboutme{
+    background-color:rgb(255, 255, 255); /*whichever you want*/
+    opacity: .90; 
+    filter:(opacity=50);
+}
+
+
+
+
+/* */

@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cynthia Carrillo Contreras"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
