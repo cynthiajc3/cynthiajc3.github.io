@@ -23,7 +23,7 @@
 /*background font & image*/
 body{
    font-family: 'Happy Monkey','Nunito', 'Lato','sans-serif';
-   background-image:url(/resources/_gen/images/bk_image3.png);
+   background-image:url(/bk_image3.png);
    background-size:cover;
    background-position: center;
    background-repeat: no-repeat;
