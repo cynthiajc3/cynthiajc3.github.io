@@ -18,6 +18,5 @@ I am a spark of color, fun, and laughter! I watched an animation demo reel for t
 
 Contact Info:
 
-LinkedIn - https://www.linkedin.com/in/cynthia-carrillo-contreras-03a9a384/
-
+<a href="https://www.linkedin.com/in/cynthia-carrillo-contreras-03a9a384/">LinkedIn</a>
 
